@@ -38,3 +38,5 @@ quick install: pip install -r YOUR_PATCH/nasdaq-api-data-to-plots/Documentation/
 ## Contact me:
 
 Linkdin: linkedin.com/in/georgekhananaev
+
+I won't approve anyone, you send me a message first, Thank you.
