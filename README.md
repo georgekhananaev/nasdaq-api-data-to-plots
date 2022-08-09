@@ -2,12 +2,14 @@
 Python script, which creates 4 different plot from Nasdaq API data.
 
 #### What it doing:
-retrieve data from https://data.nasdaq.com/api/v3/datasets/FSE/BDT_X (Frankfurt Stock Exchange). 
-Display the 90,30,7 days moving average on a plot graph.
-Display the monthly average price on that graph.
-Detect and present (mark on the graph with a symbol, e.g. green triangle) the dates where there are 5 consecutive days of prices going up.
-Detect and present the dates where there are 4 consecutive days of prices going down (different symbol).
-Show on the graph a regression line.
+1. retrieve data from https://data.nasdaq.com/api/v3/datasets/FSE/BDT_X (Frankfurt Stock Exchange). 
+2. Display the 90,30,7 days moving average on a plot graph.
+3. Display the monthly average price on that graph.
+4. Detect and present (mark on the graph with a symbol, e.g. green triangle) the dates where there are 5 consecutive days of prices going up.
+5. Detect and present the dates where there are 4 consecutive days of prices going down (different symbol).
+6. Show on the graph a regression line.
+7. Ability to save all data/plots from the API into files such as XLSX, pdfs.
+8. Interactive Menu
 
 ## How to use in CMD/Terminal:
 
