@@ -1,6 +1,9 @@
 # nasdaq-api-data-to-plots
 Python script, which creates 4 different plot from Nasdaq API data.
 
+![alt text](http://repository-images.githubusercontent.com/523085530/bf2d0c96-ae21-4fd8-a8e6-3e3887678f84)
+
+
 #### What it doing:
 1. retrieve data from https://data.nasdaq.com/api/v3/datasets/FSE/BDT_X (Frankfurt Stock Exchange). 
 2. Display the 90,30,7 days moving average on a plot graph.
