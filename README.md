@@ -8,12 +8,12 @@ Python script, which creates 4 different plot from Nasdaq API data.
 4. Detect and present (mark on the graph with a symbol, e.g. green triangle) the dates where there are 5 consecutive days of prices going up.
 5. Detect and present the dates where there are 4 consecutive days of prices going down (different symbol).
 6. Show on the graph a regression line.
-7. Ability to save all data/plots from the API into files such as XLSX, pdfs.
+7. Ability to save all data/plots from the API into files such as .xlsx, .pdfs formats.
 8. Interactive Menu
 
 ## How to use in CMD/Terminal:
 
-1. open cmd/terminal
+1. open cmd/terminal (colored package doesn't work in CMD, it will show some funny strings)
 2. cd YOUR_PATCH/nasdaq-api-data-to-plots/App/
 3. python3 menu.py or python menu.py
 
