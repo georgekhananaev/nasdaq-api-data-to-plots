@@ -1,0 +1,8 @@
+Task:
+Following our phone conversation I'm sending you the short home assignment that I'd like you to submit:
+*1. Connect and retrieve data from https://data.nasdaq.com/api/v3/datasets/FSE/BDT_X (Frankfurt Stock Exchange). Please turn to the API documentation and create the client code accordingly.
+*2. Display the 90,30,7 days moving average on a plot graph.
+*3. Display also the monthly average price on that graph.
+4. Detect and present (mark on the graph with a symbol, e.g. green triangle) the dates where there are 5 consecutive days of prices going up.
+5. Detect and present the dates where there are 4 consecutive days of prices going down (different symbol).
+6. Calculate and show on the graph a regression line for the last 90, 30 and 7 days in the plot.
