@@ -11,6 +11,10 @@ Python script, which creates 4 different plot from Nasdaq API data.
 7. Ability to save all data/plots from the API into files such as .xlsx, .pdfs formats.
 8. Interactive Menu
 
+## Get your own API KEY.
+Register at: https://data.nasdaq.com/tools/api and place your key at: dataFile.py
+
+
 ## How to use in CMD/Terminal:
 
 1. open cmd/terminal (colored package doesn't work in CMD, it will show some funny strings)
