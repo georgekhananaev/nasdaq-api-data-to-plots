@@ -35,6 +35,6 @@ pip install colored (needed only for the menu.py)
 located in: /nasdaq-api-data-to-plots/Documentation/
 quick install: pip install -r YOUR_PATCH/nasdaq-api-data-to-plots/Documentation/requirements.txt
 
-## Contact me
+## Contact me:
 
 Linkdin: linkedin.com/in/georgekhananaev
