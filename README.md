@@ -1,5 +1,5 @@
 # nasdaq-api-data-to-plots
-Python script, which creates 4 different plot from Nasdaq API data.
+Python script, which creates 4 different plot/graphs from Nasdaq API data.
 
 ![alt text](http://repository-images.githubusercontent.com/523085530/bf2d0c96-ae21-4fd8-a8e6-3e3887678f84)
 
