@@ -37,15 +37,17 @@ Python 3.10.4 (Newer should work if available)
 
 ## If you installing libraries manually:
 
-1. pip install requests
-2. pip install matplotlib
-3. pip install plotly
-4. pip install pyautogui
-5. pip install pandas
-6. pip install datetime
-7. pip install PyQt5
-8. pip install scikit-learn
-9. pip install colored (needed only for the menu.py)
+1.pip install requests
+2.pip install matplotlib
+3.pip install plotly
+4.pip install pyautogui
+5.pip install pandas
+6.pip install datetime
+7.pip install PyQt5
+8.pip install scikit-learn
+9.pip install termcolor
+10.pip install colored (needed only for the menu.py)
+11.sudo apt-get install python3-tk python3-dev
 
 ## All my Ubuntu libraries(can remove what you don't need):
 
