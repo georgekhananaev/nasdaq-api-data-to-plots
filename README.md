@@ -45,8 +45,12 @@ Python 3.10.4 (Newer should work if available)
 6. pip install datetime
 7. pip install PyQt5
 8. pip install scikit-learn
+
+This two needed only for the menu.py
 9. pip install termcolor
-10. pip install colored (needed only for the menu.py)
+10. pip install colored 
+
+For Ubuntu/Debian based, if you missing these two:
 11. sudo apt-get install python3-tk python3-dev
 
 ## All my Ubuntu libraries(can remove what you don't need):
