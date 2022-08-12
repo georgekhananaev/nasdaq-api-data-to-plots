@@ -51,8 +51,9 @@ Python 3.10.4 (Newer should work if available)
 
 ## All my Ubuntu libraries(can remove what you don't need):
 
-located in: /nasdaq-api-data-to-plots/Documentation/
-quick install: pip install -r YOUR_PATCH/nasdaq-api-data-to-plots/Documentation/requirements.txt
+Located in: /nasdaq-api-data-to-plots/Documentation/3
+
+Quick install: pip install -r YOUR_PATCH/nasdaq-api-data-to-plots/Documentation/requirements.txt
 
 ## Contact me:
 
