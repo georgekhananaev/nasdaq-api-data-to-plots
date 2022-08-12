@@ -35,7 +35,7 @@ You can run each plot individually, by enabling/disabling with [HASH].
 
 Python 3.10.4 (Newer should work if available)
 
-## If you installing libraries manually:
+## If you installing fresh libraries manually:
 
 1. pip install requests
 2. pip install matplotlib
